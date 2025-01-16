@@ -72,7 +72,7 @@ Abaixo estão algumas capturas de tela que mostram a aplicação em execução n
 
 ## Vídeo Demonstrativo
 
-
+https://github.com/user-attachments/assets/adc5e894-2af2-4218-a369-f36de8cce1fa
 
 ## Discussão: Experiência no Simulador vs. Headset
 ### Simulador
